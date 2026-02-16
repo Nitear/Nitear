@@ -8,7 +8,7 @@ Skills:
 Mobile and Web Development
 
 Tools:
-![Tools](/repository/assets/nodejs?raw=true "Python")
+![Tools](/repository/assets/nodejs.png?raw=true "Python")
 <!--
 **Nitear/Nitear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
