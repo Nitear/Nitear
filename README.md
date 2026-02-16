@@ -22,6 +22,8 @@ Tools:
 </p>
 
 🔭 I’m currently working on my portfolio website.
+<br>
 🌱 I’m currently learning python
+<br>
 😄 Pronouns: He/Him
 
