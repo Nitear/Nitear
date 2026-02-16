@@ -29,8 +29,11 @@ Tech Stack:
 <br>
 😄 Pronouns: He/Him
 
+
 Socials:
 <p align="left">
-   <a href="https://github.com/Nitear"><img src="./assets/GitHub_White.png" width="40" height="40"/></a>
+  <a href="https://github.com/Nitear"><img src="./assets/GitHub_White.png" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/etel.tungol/"><img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/etel-ni%C3%B1o-tu%C3%B1gol-5a91a0317/"><img src="https://github.com/user-attachments/assets/89ea1ac0-7fb2-4b95-bcb6-e4c47ea779a4" width="40" height="40"/></a>
 </p>
 
