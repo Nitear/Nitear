@@ -29,3 +29,8 @@ Tech Stack:
 <br>
 😄 Pronouns: He/Him
 
+Socials:
+<p align="left">
+   <a href="https://github.com/Nitear"><img src="./assets/GitHub_White.png" width="40" height="40"/></a>
+</p>
+
