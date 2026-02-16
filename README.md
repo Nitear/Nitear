@@ -1,4 +1,6 @@
 ## Hi there 👋 
+<img src="./assets/github-header-banner.png" width="100%" height="5%"/>
+
 
 Hello!👋 My name is **Etel Niño G. Tuñgol**  I'm from Pampanga State University currently taking BS in Computer Science. I'm currently a student intern in DAKILASOFT IT SOLUTIONS. Aspiring backend programmer.
 
