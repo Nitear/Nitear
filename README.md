@@ -10,14 +10,14 @@ Mobile and Web Development
 
 Tools:
 
-<div>
-<img src="https://code.visualstudio.com/assets/branding/code-stable.png" height="40" width="40" >
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="40" width="40" >
-<img src="https://www.php.net/images/logos/new-php-logo.png" height="40" width="50" >
-<img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" height="40" width="50" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" >
-<img src="./assets/GitHub_White.png" width="40" height="40" />
-</div>
+<p align="left">
+  <img src="https://code.visualstudio.com/assets/branding/code-stable.png" width="40" height="40"/>
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="40" height="40"/>
+  <img src="https://www.php.net/images/logos/new-php-logo.png" width="50" height="40"/>
+  <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width="50" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
+  <img src="./assets/GitHub_White.png" width="40" height="40"/>
+</p>
 
 🔭 I’m currently working on my portfolio website.
 🌱 I’m currently learning python
