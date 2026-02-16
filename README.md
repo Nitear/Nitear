@@ -2,12 +2,11 @@
 <img src="./assets/github-header-banner.png" width="100%" height="5%"/>
 
 
-Hello!👋 My name is **Etel Niño G. Tuñgol**  I'm from Pampanga State University currently taking BS in Computer Science. I'm currently a student intern in DAKILASOFT IT SOLUTIONS. Aspiring backend programmer.
+Hello!👋 My name is **Etel Niño G. Tuñgol**  I'm from Pampanga State University currently taking BS in Computer Science. I'm currently a student intern in DAKILASOFT IT SOLUTIONS.
 
 I am very interested in to learn more about backend programming.
 
 Skills:
-
 Mobile and Web Development
 
 Tools:
@@ -18,6 +17,7 @@ Tools:
   <img src="https://www.php.net/images/logos/new-php-logo.png" width="50" height="40"/>
   <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width="50" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
+  <img src="https://godotengine.org/assets/press/icon_color.png" width="40" height="40"/>
   <img src="./assets/GitHub_White.png" width="40" height="40"/>
 </p>
 
