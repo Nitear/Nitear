@@ -13,7 +13,7 @@ Tools:
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="40" width="40" >
 <img src="https://www.php.net/images/logos/new-php-logo.png" height="40" width="50" >
 <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" height="40" width="50" >
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" >
 
 <!--
 **Nitear/Nitear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
