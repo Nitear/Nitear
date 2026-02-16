@@ -32,8 +32,8 @@ Tech Stack:
 
 Socials:
 <p align="left">
-  <a href="https://github.com/Nitear" target="_blank" rel="noopener noreferrer"><img src="./assets/GitHub_White.png" width="40" height="40"/></a>
-  <a href="https://www.facebook.com/etel.tungol/" target="_blank" rel="noopener noreferrer"><img src="./assets/Facebook_Logo_Primary.png" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/etel-ni%C3%B1o-tu%C3%B1gol-5a91a0317/" target="_blank" rel="noopener noreferrer"><img src="./assets/linkedin.png" width="40" height="40"/></a>
+  <a href="https://github.com/Nitear"><img src="./assets/GitHub_White.png" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/etel.tungol/"><img src="./assets/Facebook_Logo_Primary.png" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/etel-ni%C3%B1o-tu%C3%B1gol-5a91a0317/"><img src="./assets/linkedin.png" width="40" height="40"/></a>
 </p>
 
