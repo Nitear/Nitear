@@ -8,7 +8,11 @@ Skills:
 Mobile and Web Development
 
 Tools:
-![Tools](/assets/nodejs.png?raw=true "Python")
+<br>
+<img src="https://code.visualstudio.com/assets/branding/code-stable.png" height="40" width="40" >
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="40" width="40" >
+
+
 <!--
 **Nitear/Nitear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
