@@ -7,15 +7,17 @@ Hello!👋 My name is **Etel Niño G. Tuñgol**  I'm from Pampanga State Univers
 I am very interested in to learn more about backend programming.
 
 Skills:
-Mobile and Web Development
+<br>
+Web and Mobile Development
 
-Tools:
+Tech Stack:
 
 <p align="left">
   <img src="https://code.visualstudio.com/assets/branding/code-stable.png" width="40" height="40"/>
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="40" height="40"/>
   <img src="https://www.php.net/images/logos/new-php-logo.png" width="50" height="40"/>
   <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width="50" height="40"/>
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
   <img src="https://godotengine.org/assets/press/icon_color.png" width="40" height="40"/>
   <img src="./assets/GitHub_White.png" width="40" height="40"/>
