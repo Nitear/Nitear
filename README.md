@@ -13,13 +13,13 @@ Web and Mobile Development
 Tech Stack:
 
 <p align="left">
-  <img src="https://code.visualstudio.com/assets/branding/code-stable.png" width="40" height="40"/>
-  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="40" height="40"/>
-  <img src="https://www.php.net/images/logos/new-php-logo.png" width="50" height="40"/>
-  <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width="50" height="40"/>
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
-  <img src="https://godotengine.org/assets/press/icon_color.png" width="40" height="40"/>
+  <img src="./assets/vs_code.png" width="40" height="40"/>
+  <img src="./assets/python.png" width="40" height="40"/>
+  <img src="./assets/php-logo.png" width="50" height="40"/>
+  <img src="./assets/nodejsHex.svg" width="50" height="40"/>
+  <img src="./assets/mysql.png" width="40" height="40"/>
+  <img src="./assets/javascript.png" width="40" height="40"/>
+  <img src="./assets/godot.png" width="40" height="40"/>
   <img src="./assets/GitHub_White.png" width="40" height="40"/>
 </p>
 
@@ -33,7 +33,7 @@ Tech Stack:
 Socials:
 <p align="left">
   <a href="https://github.com/Nitear"><img src="./assets/GitHub_White.png" width="40" height="40"/></a>
-  <a href="https://www.facebook.com/etel.tungol/"><img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/etel-ni%C3%B1o-tu%C3%B1gol-5a91a0317/"><img src="https://github.com/user-attachments/assets/89ea1ac0-7fb2-4b95-bcb6-e4c47ea779a4" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/etel.tungol/"><img src="./assets/Facebook_Logo_Primary.png" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/etel-ni%C3%B1o-tu%C3%B1gol-5a91a0317/"><img src="./assets/linkedin.png" width="40" height="40"/></a>
 </p>
 
