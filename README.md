@@ -16,7 +16,7 @@ Tools:
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" >
 <div style="width:40px ; height:40px">
-![Github_Logo](/assets/GitHub_White.png?raw=true "Github_Logo")
+![Github Logo](./assets/GitHub_White.png)
 <div>
 
 <!--
