@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there 👋 
 
+Hello!👋 My name is **Etel Niño Guanzon Tuñgol**  I'm from Pampanga State University currently taking BS in Computer Science. I'm currently a student intern in DAKILASOFT IT SOLUTIONS. Aspiring backend programmer
+
+I am very interested in backend programming.
+
+Skills:
+Mobile and Web Development
+
+Tools:
+![Tools](/repository/assets/nodejs?raw=true "Python")
 <!--
 **Nitear/Nitear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
