@@ -2,7 +2,7 @@
 <img src="./assets/github-header-banner.png" width="100%" height="5%"/>
 
 
-Hello!👋 My name is **Etel Niño G. Tuñgol** BS in Computer Science.
+Hello!👋 My name is **Etel Niño G. Tuñgol**. Computer Science Graduate.
 I am very interested in to learn more about backend programming.
 
 Skills:
