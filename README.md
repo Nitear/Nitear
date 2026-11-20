@@ -2,8 +2,7 @@
 <img src="./assets/github-header-banner.png" width="100%" height="5%"/>
 
 
-Hello!👋 My name is **Etel Niño G. Tuñgol**  I'm from Pampanga State University currently taking BS in Computer Science. I'm currently a student intern in DAKILASOFT IT SOLUTIONS.
-
+Hello!👋 My name is **Etel Niño G. Tuñgol** BS in Computer Science.
 I am very interested in to learn more about backend programming.
 
 Skills:
@@ -22,13 +21,6 @@ Tech Stack and Tools:
   <img src="./assets/godot-svgrepo-com.svg" width="40" height="40" title = "Godot"/>
   <img src="./assets/github-color-svgrepo-com.svg" width="40" height="40" title = "Github"/>
 </p>
-
-🔭 I’m currently working on my portfolio website.
-<br>
-🌱 I’m currently learning python
-<br>
-😄 Pronouns: He/Him
-
 
 Socials:
 <p align="left">
