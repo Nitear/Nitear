@@ -1,27 +1,42 @@
-## Hi there 👋 
-<img src="./assets/github-header-banner.png" width="100%" height="5%"/>
+Hi there! 👋
 
+<h2 align="center">Hello, I'm Nitear!</h2>
+<h3 align="center">Backend Developer | Computer Science Graduate</h3>
 
-Hello!👋 My name is **Etel Niño G. Tuñgol**. Computer Science Graduate.
-I am very interested in to learn more about backend programming.
+I'm a Computer Science graduate interested in backend development, database management, and building reliable software applications. I enjoy learning new technologies, solving technical problems, and developing solutions that handle data and application logic efficiently.
 
-Skills:
-<br>
-Web and Mobile Development
+🛠️ Technical Skills
 
-Tech Stack and Tools:
+🛠️ Technical Skills
 
-<p align="left">
-  <img src="./assets/vscode-svgrepo-com.svg" width="40" height="40" title = "VS Code"/>
-  <img src="./assets/python-svgrepo-com.svg" width="40" height="40" title = "Python"/>
-  <img src="./assets/php-svgrepo-com.svg" width="50" height="40"    title = "Php"/>
-  <img src="./assets/nodejs-icon-svgrepo-com.svg" width="50" height="40" title = "Node.js"/>
-  <img src="./assets/mysql-logo-svgrepo-com.svg" width="40" height="40" title = "MySQL"/>
-  <img src="./assets/js-svgrepo-com.svg" width="40" height="40" title = "Javascript"/>
-  <img src="./assets/godot-svgrepo-com.svg" width="40" height="40" title = "Godot"/>
-  <img src="./assets/github-color-svgrepo-com.svg" width="40" height="40" title = "Github"/>
-</p>
+Programming Languages
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
+
+Frameworks & Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+                                       
+Databases
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
+                            
+Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+                             
 Socials:
 <p align="left">
   <a href="https://github.com/Nitear"><img src="./assets/github-color-svgrepo-com.svg" width="40" height="40" title = "Github"/></a>
